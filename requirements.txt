@@ -1,0 +1,6 @@
+ccxt
+pandas
+numpy
+smartmoneyconcepts
+python-dotenv
+PyQt5
